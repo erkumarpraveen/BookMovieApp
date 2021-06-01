@@ -1,10 +1,10 @@
-.header {
+.app-header {
     background-color: #222;
     height: 36px;
     padding: 8px 32px 8px 16px;
 }
 
-.lgn-btn {
+.login-button {
     float: right;
 }
 
@@ -14,7 +14,7 @@
     background: #ff7f7f;
 }
 
-.bs-btn {
+.bookshow-button {
     float: right;
     margin-right: 8px;
 }
@@ -35,6 +35,6 @@
     display: block;
 }
 
-.changecolor {
+.red {
     color: red;
 }
